@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<restInterface>
+    <method>GET</method>
+    <path>/notification/{notificationId}/property</path>
+    <queryParameters>connectionId</queryParameters>
+    <role>manager</role>
+    <output>nabu.management.notifier.types.propertyList</output>
+</restInterface>

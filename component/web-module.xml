@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<webModule>
+    <path>/api/notifier</path>
+    <webFragments>nabu.management.notifier.rest.notification.list</webFragments>
+    <webFragments>nabu.management.notifier.rest.property.list</webFragments>
+</webModule>
